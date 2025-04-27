@@ -45,7 +45,7 @@ with st.sidebar:
     )
     
     st.markdown("---")
-    st.write("Made By Syed Muhammad Hussain")
+    st.write("Made By Muhammad Usama")
 
 # --- Initialize game state ---
 if 'game_settings' not in st.session_state:
